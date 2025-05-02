@@ -1,4 +1,16 @@
 payload:
+  - DOMAIN-KEYWORD,proxy.test.com
+  - DOMAIN-KEYWORD,steampower
+  - DOMAIN-KEYWORD,steamcom
+  - DOMAIN-KEYWORD,store.steam
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-KEYWORD,jable.tv
+  - DOMAIN-KEYWORD,wyr.me
+  - DOMAIN-KEYWORD,saucenao
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,edge.microsoft.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,userstylesapi.com
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
