@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN-SUFFIX,driect.com
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-KEYWORD,xbox  
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,direct.test.com
+  - DOMAIN-SUFFIX,vrzwk.com
+  - DOMAIN-SUFFIX,hpcshop.top
+  - DOMAIN-SUFFIX,xz.pphimalayanrt.com
+  - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN-KEYWORD,steamcdn
+  - DOMAIN-KEYWORD,steamchina
+  - DOMAIN-KEYWORD,akamaized
+  - DOMAIN-SUFFIX,steampipe.akamaized.net
